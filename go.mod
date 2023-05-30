@@ -1,4 +1,4 @@
-module github.com/matthewhartstonge/argon2
+module github.com/cpouldev/argon2
 
 go 1.18
 
