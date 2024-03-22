@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0](https://github.com/cpouldev/argon2/compare/v1.0.0...v1.0.0) (2024-03-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** bump golang.org/x/crypto from 0.13.0 to 0.16.0
+
+### Features
+
+* **deps:** bump golang.org/x/crypto from 0.13.0 to 0.16.0 ([8dbc527](https://github.com/cpouldev/argon2/commit/8dbc52707b213d2c69660edb118b56f915eec4b0))
+
+
+### Bug Fixes
+
+* **.github/dependabot:** fixes branch targets in dependabot configuration. ([64ab947](https://github.com/cpouldev/argon2/commit/64ab947d1921dc80d8352516cf9c711044b2ed8f))
+
+
+### Miscellaneous Chores
+
+* **deps:** updates dependencies ([efcbcce](https://github.com/cpouldev/argon2/commit/efcbcce98406c8304d41b681330864af14e7aeb1))
+* release 1.0.0 ([fbe015c](https://github.com/cpouldev/argon2/commit/fbe015cd6ebc9dc6890d00d5f09cd4b42583fc28))
+
 ## [1.0.0](https://github.com/matthewhartstonge/argon2/compare/v0.3.4...v1.0.0) (2023-12-03)
 
 
