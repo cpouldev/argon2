@@ -2,6 +2,6 @@ module github.com/cpouldev/argon2
 
 go 1.18
 
-require golang.org/x/crypto v0.21.0
+require golang.org/x/crypto v0.27.0
 
-require golang.org/x/sys v0.18.0 // indirect
+require golang.org/x/sys v0.25.0 // indirect
